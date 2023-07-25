@@ -17,3 +17,9 @@ To create a production version of your app:
 npm run build
 ```
 
+## Demo
+
+
+
+https://github.com/OmerAli277/ToDoList-Svelte/assets/39855897/2f786df7-26cb-4c8b-9e00-a8ae2f577a63
+
